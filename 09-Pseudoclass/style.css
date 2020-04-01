@@ -1,0 +1,9 @@
+#Active:active{
+    background-color: red;
+}
+#Hover:hover{
+    background-color: green;
+}
+#Focus:focus{
+    background-color: indigo;
+}
